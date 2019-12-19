@@ -1,0 +1,49 @@
+{
+    "name": "Department of Justice",
+    "description": "<p>The United States Department of Justice (DOJ), also known as the Justice Department, is the U.S. federal executive department responsible for the enforcement of the law and administration of justice, equivalent to the justice or interior ministries of other countries. The Department is led by the Attorney General, who is nominated by the President and confirmed by the Senate and is a member of the Cabinet. The current Attorney General is Eric Holder.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/US-DeptOfJustice-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-justice\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of Justice",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/US-DeptOfJustice-Seal.svg.png",
+            "humanURL": "http:\/\/www.justice.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-justice-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-justice-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.justice.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.justice.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/United_States_Department_of_Justice"
+        }
+    ]
+}
